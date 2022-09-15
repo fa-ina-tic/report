@@ -1,0 +1,27 @@
+device,os,device_type
+acer aspire desktop,window,computer
+acer aspire notebook,window,computer
+amazon fire phone,android,phone
+asus chromebook,window,computer
+dell inspiron desktop,window,computer
+dell inspiron notebook,window,computer
+hp pavilion desktop,window,computer
+htc one,android,phone
+ipad air,mac,tablet
+ipad mini,mac,tablet
+iphone 4s,mac,phone
+iphone 5,mac,phone
+iphone 5s,mac,phone
+kindle fire,android,tablet
+lenovo thinkpad,window,computer
+mac mini,mac,computer
+macbook air,mac,computer
+macbook pro,mac,computer
+nexus 10,android,tablet
+nexus 5,android,tablet
+nexus 7,android,tablet
+nokia lumia 635,android,phone
+samsumg galaxy tablet,android,tablet
+samsung galaxy note,android,phone
+samsung galaxy s4,android,phone
+windows surface,window,tablet
